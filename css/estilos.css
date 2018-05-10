@@ -1,0 +1,39 @@
+.barra-superior{
+  min-height: 5rem;
+}
+
+.logo{
+  width: 150px;
+  margin-top: 0.5rem;
+  float: left;
+}
+
+.contenedor-botones{
+  margin-top: 1rem;
+}
+
+.slogan{
+  margin-top: 12px;
+  text-align: left;
+  font-size: 30px;
+}
+
+.logos-social{
+  width: 50px;
+  float: left;
+}
+
+
+.img-viaje{
+width: 300px;
+}
+
+.img-perfil{
+  width: 60px;
+
+  align-items: center;
+}
+
+.card-text{
+  font-size: 9px;
+}
